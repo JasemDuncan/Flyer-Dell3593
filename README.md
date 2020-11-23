@@ -14,7 +14,7 @@
 
 - Github: [JasemDuncan](https://github.com/JasemDuncan)
 - Linkedin: [Jasem-Duncan-Valencia](https://www.linkedin.com/in/jasem-duncan-valencia/)
-- Mail: [Jasem Valencia](jasemvalencia@gmail.com)
+- E-mail: [Jasem Valencia](jasemvalencia@gmail.com)
 
 
 ## 🤝 Contributing
